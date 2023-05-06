@@ -101,7 +101,7 @@ div{
     border-radius: 20px;
     display: table-cell;
     vertical-align: middle;
-    background-color: #be8aff;
+    background-color: #333;
     text-decoration-color: #FFFFFF;
     text-align: center;
     position: absolute;
@@ -193,4 +193,56 @@ div{
 
 .p {
     font-size: 300px;
+}
+
+.video{
+    position: absolute;
+    top: 280px;
+    left: 5px;
+}
+.video2 {
+    position: absolute;
+    top: 280px;
+    right: 15px;
+}
+
+.text1{
+    font-family: 'Cafe24 Ohsquare';
+    font-size: 20px;
+    position: absolute;
+    top: 250px;
+    left: 200px;
+}
+.text2 {
+    font-family: 'Cafe24 Ohsquare';
+    font-size: 20px;
+    position: absolute;
+    top: 250px;
+    right: 250px;
+}
+
+.insta {
+    position: absolute;
+    top: 470px;
+    right: 490px;
+}
+.github {
+    position: absolute;
+    top: 453px;
+    right: 410px;
+}
+
+.rr {
+    width: 100px;
+    height: 25px;
+    border-radius: 20px;
+    background-color: #6c75ad;
+    position: absolute;
+    top: 490px;
+    right: 480px;
+    opacity: 0.0;
+}
+.rr:hover {
+    background-color: #333;
+    opacity: 1.0;
 }
