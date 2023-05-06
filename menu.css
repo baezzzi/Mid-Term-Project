@@ -76,3 +76,103 @@ li a:hover{
 .hey{
     font-size: 70px;
 }
+
+.img1{
+    position: absolute;
+    top: 100px;
+    left: 580px;
+}
+
+div{
+    color: #FFFFFF;
+    font-family: 'Cafe24 Ohsquare';
+    font-size: 20px;
+}
+.t { 
+    font-family: 'Cafe24 Ohsquare';
+    font-size: 25px;
+    position: relative;
+}
+
+
+.re1 {
+    width: 140px;
+    height: 50px;
+    border-radius: 20px;
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #be8aff;
+    text-decoration-color: #FFFFFF;
+    text-align: center;
+    position: absolute;
+    top: 515px;
+    left: 660px;
+}
+.t2 {
+    position: absolute;
+    top: 575px;
+    left: 595px;
+}
+
+.re2 {
+    width: 170px;
+    height: 50px;
+    border-radius: 20px;
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #be8aff;
+    text-decoration-color: #FFFFFF;
+    text-align: center;
+    position: absolute;
+    top: 200px;
+    left: 640px;
+}
+
+.re3 {
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #be8aff;
+    text-decoration-color: #FFFFFF;
+    text-align: center;
+    position: absolute;
+    top: 200px;
+    left: 680px;
+}
+
+.re4 {
+    width: 90px;
+    height: 50px;
+    border-radius: 20px;
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #be8aff;
+    text-decoration-color: #FFFFFF;
+    text-align: center;
+    position: absolute;
+    top: 420px;
+    left: 685px;
+}
+.t1 {
+    position: absolute;
+    top: 480px;
+    left: 685px;
+}
+
+
+.re5 {
+    width: 170px;
+    height: 50px;
+    border-radius: 20px;
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #be8aff;
+    text-decoration-color: #FFFFFF;
+    text-align: center;
+    position: absolute;
+    top: 80px;
+    left: 640px;
+}
+
