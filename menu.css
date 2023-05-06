@@ -246,3 +246,27 @@ div{
     background-color: #333;
     opacity: 1.0;
 }
+
+.contect-box {
+    width: 300px;
+    height: 100px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 300px;
+    left: 300px;
+}
+
+.email{
+    width: 150px;
+    height: 60px;
+    background-color: #333;
+    position: absolute;
+    top: 50px;
+    right: 100px;
+}
+
+
+.less:hover{
+    opacity: 1.0;
+}
