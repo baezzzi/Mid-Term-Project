@@ -67,13 +67,12 @@ li a:hover{
 .infotext{
     font-size: 50px;
     position: absolute;
-    float: right;
-    top: 110px;
-    right: 20x;
+    text-align: center;
+    top: 330px;
+    left: 800px;
     color: #FFFFFF;
     font-family: 'Cafe24 Ohsquare';
 }
-.jiyeon{
-    color: #be8aff;
-    font-family: 'Cafe24 Ohsquare';
+.hey{
+    font-size: 70px;
 }
