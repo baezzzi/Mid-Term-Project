@@ -204,12 +204,12 @@ div{
 .video{
     position: absolute;
     top: 280px;
-    left: 5px;
+    left: 30px;
 }
 .video2 {
     position: absolute;
     top: 280px;
-    right: 15px;
+    right: 30px;
 }
 
 .text1{
@@ -217,14 +217,14 @@ div{
     font-size: 20px;
     position: absolute;
     top: 250px;
-    left: 200px;
+    left: 170px;
 }
 .text2 {
     font-family: 'Cafe24 Ohsquare';
     font-size: 20px;
     position: absolute;
     top: 250px;
-    right: 250px;
+    right: 195px;
 }
 
 .insta {
